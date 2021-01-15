@@ -1,0 +1,10 @@
+{
+    "ivs":{
+        "new_entity":"*A new entity appears. Maybe this introduction is beneficial to you, maybe not.*",
+        "entity_pos":"*Something good happens to an entity in the scene.*",
+        "entity_neg":"*Something bad happens to an entity in the scene.*",
+        "plot_adv":"*Advancing a plot pushes an unresolved hook in a certain direction.\n\nFor instance, if you've been enslaved, you might be freed by some freedom fighters.*",
+        "plot_reg":"*Regressing a plot pushes an unresolved hook in the opposite direction.\n\nFor instance, if you've been enslaved, you might be sold to a nobleman.*",
+        "wild":"*Something utterly unexpected occurs.*"
+    }
+}

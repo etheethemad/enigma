@@ -1,0 +1,26 @@
+{
+    "rarity":["common","uncommon", "rare","legendary","artifact"],
+    "weapon":{
+        "class": {
+            "blade":["dagger","shortsword","gladius","saber","scimitar","khopesh","cutlass","falchion",
+                     "katana","tanto","rapier","machete","claymore","zweihander","bastard sword","dai-katana"],
+            "heavy":["ultra greatsword","greataxe","warhammer","cannon","lance","other","greathammer"],
+            "longarm":["halberd","svärdstav","poleaxe","scythe","spear","pike","javelin","lance"],
+            "ranged":["longbow", "shortbow", "greatbow", "crossbow", "hand cannon", "cannon", "rifle","javelin"],
+            "ham":["morning star","flail","war axe","hand axe","hammer","mace"],
+            "other":["whip","claws","multiflail","net","bola","stave"],
+            "magic":["staff","talisman","charm","tome","scroll"]
+        },
+        "ench":{
+            "element":["fire","ice","water","lightning","earth","necrotic","light","darkness","chaotic","holy","toxic","void","acid"],
+            "effect":["+$BONUS bonus damage to $ELEMENT-based enemies",
+                       "$BUFF_LARGE on successful kill",
+                       "$BUFF_SMALL on successful hit",
+                       "+$BONUSDICE of $ELEMENT damage"],
+            "buffslg":["Gain +$BONUSPCT% of max HP"],
+            "buffssm":["Gain +$BONUS HP"],
+            "recharge":["rest","sacrifice","special","unavailable"]
+        }
+    },
+    "tags":["boss item","negative reputation"]
+}
